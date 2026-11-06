@@ -1,6 +1,9 @@
 {
-  "name": "app",
-  "short_name": "app",
+  "name": "Biblioteca ISA",
+  "short_name": "Biblioteca",
+  "description": "PWA de Ingeniería de Software Aplicada que consume una API de libros (Mockachino)",
+  "theme_color": "#1f6feb",
+  "background_color": "#121212",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
